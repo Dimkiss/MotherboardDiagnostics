@@ -20,7 +20,7 @@ namespace YourProjectName
         private void TestMethodToggleButton_Click(object sender, RoutedEventArgs e)
         {
             ToggleButton clickedButton = sender as ToggleButton;
-            foreach (var button in new[] { ResistanceButton, VoltageButton, CurrentButton, OscilloscopeButton, RamTesterButton, PcieTesterButton, CpuSocketTesterButton, BiosTesterButton })
+            foreach (var button in new[] { ResistanceButton, VoltageButton, CurrentButton, OscilloscopeButton, RamTesterButton, PcieTesterButton, CpuSocketTesterButton})
             {
                 if (button != clickedButton)
                     button.IsChecked = false;

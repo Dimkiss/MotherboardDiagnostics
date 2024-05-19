@@ -8,22 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50f33372-728c-4103-a840-d9e571cff7a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MotherboardDiagnostics/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MotherboardDiagnostics/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MotherboardDiagnostics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MotherboardDiagnostics/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MotherboardDiagnostics.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MotherboardDiagnostics.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faultyoscilloscope.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motherboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workingoscilloscope.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MotherboardDiagnostics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MotherboardDiagnostics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MainWindow.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +85,7 @@
       <updated>1716040566651</updated>
       <workItem from="1716040568691" duration="4175000" />
       <workItem from="1716048338601" duration="24181000" />
-      <workItem from="1716130310349" duration="5732000" />
+      <workItem from="1716130310349" duration="6535000" />
     </task>
     <servers />
   </component>

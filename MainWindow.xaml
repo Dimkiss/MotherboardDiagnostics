@@ -47,7 +47,6 @@
                 <ToggleButton x:Name="RamTesterButton" Content="Тестер ОЗУ" Click="TestMethodToggleButton_Click" Width="150" Height="40" Margin="10,0" FontSize="13"/>
                 <ToggleButton x:Name="PcieTesterButton" Content="Тестер PCIe" Click="TestMethodToggleButton_Click" Width="150" Height="40" Margin="10,0" FontSize="13"/>
                 <ToggleButton x:Name="CpuSocketTesterButton" Content="Тестер сокета ЦПУ" Click="TestMethodToggleButton_Click" Width="150" Height="40" Margin="10,0" FontSize="13"/>
-                <ToggleButton x:Name="BiosTesterButton" Content="Тестер BIOS" Click="TestMethodToggleButton_Click" Width="150" Height="40" Margin="10,0" FontSize="13"/>
             </StackPanel>
         </Grid>
 
